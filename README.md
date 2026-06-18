@@ -24,7 +24,7 @@ Age Calculator/
 ├── Age Calculator.html
 ├── Age Calculator.css
 ├── Age Calculator.js
-└── README.md
+README.md
 ```
 
 ## How to Use
