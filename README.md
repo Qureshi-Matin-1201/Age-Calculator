@@ -21,10 +21,10 @@ A simple and responsive Age Calculator built using HTML, CSS, and JavaScript. Th
 ```text id="f84j3m"
 Age Calculator/
 │
-├── Age Calculator.html
-├── Age Calculator.css
-├── Age Calculator.js
-README.md
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ```
 
 ## How to Use
