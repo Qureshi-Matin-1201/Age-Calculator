@@ -2,6 +2,10 @@
 
 A simple and responsive Age Calculator built using HTML, CSS, and JavaScript. This project allows users to enter their date of birth and instantly calculate their age in years, months, and days.
 
+## Live Demo
+
+https://qureshi-matin-1201.github.io/Age-Calculator/
+
 ## Features
 
 * Calculate exact age from date of birth
